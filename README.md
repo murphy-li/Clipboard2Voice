@@ -14,7 +14,8 @@
 2. 然后按home键，打开其他app，选中文字，然后长按，点击复制，然后软件会自动读出对应的语音。
 
 ## Auto Boot
-因为使用这是文盲，所以方便第一，流氓不流氓就另说，我妈妈是文盲，所以直接开机自启动方便，同时监听了网络状态自启动。所以本app支持：
+因为使用者是文盲，所以方便第一，流氓不流氓就另说，我妈妈是文盲，所以直接开机自启动方便，同时监听了网络状态自启动。所以本app支持：
+
 1. 开机自启动
 2. 网络状态改变自启动
 
@@ -29,7 +30,7 @@
 
 
 ## License
-本软件使用Apache license 2.0. 看这里[LICENSE](https://github.com/murphy-li/Clipboard2Voice/blob/master/LICENSE) 获取更多细节。
+本软件使用Apache License 2.0. 看这里[LICENSE](https://github.com/murphy-li/Clipboard2Voice/blob/master/LICENSE) 获取更多细节。
 
 ## Secret
 
