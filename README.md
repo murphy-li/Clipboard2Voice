@@ -5,7 +5,10 @@
 主要提供给文盲家人使用，只需要复制文字，app就会自动后台转语音，并且读出来（based on Google TTS Engine)。
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg"></a>
+
 虽然目前公司应该不是996icu，但是前公司是9 11 6.我也算是个受害者中的幸存者吧。
+
+
 ## Getting started
 好像没啥好介绍，项目很Easy。
 
