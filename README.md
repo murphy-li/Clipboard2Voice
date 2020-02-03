@@ -1,6 +1,6 @@
 ## Clipboard2Voice
 [![license](https://img.shields.io/badge/license-Apache%20License%202.0-brightgreen.svg?style=flat)](https://github.com/murphy-li/Clipboard2Voice/blob/master/LICENSE)
-[![Release Version](https://img.shields.io/badge/release-v1.0-red.svg)](https://github.com/murphy-li/Clipboard2Voice/releases)
+[![Release Version](https://img.shields.io/badge/release-v1.0.1-red.svg)](https://github.com/murphy-li/Clipboard2Voice/releases)
 
 主要提供给文盲使用，剪切板文字自动转语音。
 ## Getting started
@@ -8,7 +8,7 @@
 
 ## Guide
 
-1. 请到[![Release Version](https://img.shields.io/badge/release-v1.0-red.svg)](https://github.com/murphy-li/Clipboard2Voice/releases)下载软件。其中Clipboard2Voice.apk是软件本体，GoogleTTS.apk是谷歌语音转文字插件，只需要下载这两个文件就可以了，
+1. 请到[![Release Version](https://img.shields.io/badge/release-v1.0.1-red.svg)](https://github.com/murphy-li/Clipboard2Voice/releases)下载软件。其中Clipboard2Voice.apk是软件本体，GoogleTTS.apk是谷歌语音转文字插件，只需要下载这两个文件就可以了，
 2. 在安装完软件之后，在系统设置中将谷歌TTS设置为默认语音转文字插件，然后把该给的权限都给上。
 3. 然后按home键，打开其他app，选中文字，然后长按，点击复制，然后软件会自动读出对应的语音。
 
