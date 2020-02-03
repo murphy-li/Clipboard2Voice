@@ -10,9 +10,6 @@
 
 
 ## Getting started
-好像没啥好介绍，项目很Easy。
-
-## Guide
 
 1. 请到[![Release Version](https://img.shields.io/badge/release-v1.0.1-red.svg)](https://github.com/murphy-li/Clipboard2Voice/releases)下载软件。其中Clipboard2Voice.apk是软件本体，GoogleTTS.apk是谷歌语音转文字插件，只需要下载这两个文件就可以了，
 2. 在安装完软件之后，在系统设置中将谷歌TTS设置为默认语音转文字插件，然后把该给的权限都给上。
